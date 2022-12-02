@@ -1,0 +1,333 @@
+body{
+  background-color: #CFF5E7;
+  margin: 0;
+}
+.top-container{
+  background-color: #A0E4CB;
+  height:80px;
+
+}
+h1{
+
+    font-family: 'Sacramento',serif;
+    font-size: 100%;
+}
+h5{
+  font-size: 100%;
+}
+.me{
+  position:relative;
+  bottom: -10px;
+  right: 10px;
+  font-size: 20px;
+}
+.damon{
+position: relative;
+  bottom: 30px;
+  right: 10px;
+  color: #3A8891;
+  font-size: 60px;
+}
+.dsk1{
+  background-size: cover
+  min-height: 60vh;
+  position: relative;
+  width: 380px;
+  height: 480px;
+  right: 100px;
+  bottom:-50px;
+}
+.web{
+  text-align: center;
+  position: relative;
+  top: -78px;
+  right: 20px;
+  font-family:'Leckerli One',sans-serif;
+
+}
+.hai{
+  font-family:'Leckerli One',sans-serif;
+
+position: relative;
+right: 10px;
+bottom:50px;
+}
+.name{
+  font-family:'Ubuntu',sans-serif;
+  position: relative;
+  right: 20px;
+  bottom:-40px;
+  font-size: 15px;
+}
+.hr{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: -20px;
+}
+.about{
+height:80px;
+}
+.sk{
+  text-align: center;
+  font-family:'Signika Negative',sans-serif;
+  font-size: 20px;
+  padding-top: 15px;
+}
+.well{
+  font-family:'Signika Negative',sans-serif;
+}
+.skil{
+    font-family:'Signika Negative',sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.hr2{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: 0px;
+}
+.sm{
+  font-family: 'Bungee Shade';
+  position: relative;
+  text-align: center;
+}
+.intro{
+  text-align: center;
+  letter-spacing: 1px;
+line-height: 35px;
+font-family:'Signika Negative',sans-serif;
+}
+.hr3{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: -10px;
+}
+.Qualifications{
+  font-family:'Signika Negative',sans-serif;
+  position: relative;
+  bottom: 86px;
+}
+.d{
+  position: relative;
+  left: 49px;
+}
+.table{
+  position: relative;
+  left: 48px;
+  bottom: 70px;
+}
+.hr4{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: 40px;
+}
+.mo{
+text-decoration: none;
+font-family:'Signika Negative',sans-serif;
+position: relative;
+top:-90px;
+}
+
+
+.tb{
+  font-family:'Signika Negative',sans-serif;
+position: relative;
+bottom: 100px;
+margin-left: 100px;
+}
+.hr5{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: 80px;
+}
+.cam{
+position: relative;
+bottom: 50px;
+}
+.point{
+  position: relative;
+  bottom: 0px;
+}
+.sin{
+  position: relative;
+  left:150px;
+  top:1600px;
+}
+.get{
+  position: relative;
+  bottom: 60px;
+  font-family:'Signika Negative',sans-serif;
+  color: #28b56a;
+}
+.dis{
+  position: relative;
+  bottom: 60px;
+  font-family:'Leckerli One',sans-serif;
+}
+.so{
+  position: relative;
+  bottom: 60px;
+  font-family:'Leckerli One',sans-serif;
+}
+.hey{
+  position: relative;
+  bottom: 60px;
+  font-family:'Signika Negative',sans-serif;
+}
+.poi{
+  position: relative;
+  bottom: 60px;
+}
+.btn {
+  position: relative;
+  bottom: 60px;
+  background: ##4ff5b3;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Signika Negative';
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.hr55{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: 500px;
+}
+.mob{
+  font-family:'Signika Negative',sans-serif;
+  position: relative;
+  bottom: 60px;
+  font-size: 20px;
+}
+.btn1 {
+  background: #eb7b99;
+  background-image: -webkit-linear-gradient(top, #eb7b99, #fa1b1b);
+  background-image: -moz-linear-gradient(top, #eb7b99, #fa1b1b);
+  background-image: -ms-linear-gradient(top, #eb7b99, #fa1b1b);
+  background-image: -o-linear-gradient(top, #eb7b99, #fa1b1b);
+  background-image: linear-gradient(to bottom, #eb7b99, #fa1b1b);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family:'Signika Negative',sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  position: relative;
+  bottom: 70px;
+}
+.my{
+  position: relative;
+  bottom: 100px;
+  font-family:'Leckerli One',sans-serif;
+}
+.frn{
+  position: relative;
+  bottom: -40px;
+}
+.bottom-container{
+  background-color: #59C1BD;
+  height:150px;
+}
+.footer-link1{
+  position: relative;
+
+  left: -100px;
+  top: 60px;
+  background: #fbad50;
+  background-image: -webkit-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -moz-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -ms-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -o-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: linear-gradient(to bottom, #fbad50, #8a3ab9);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: 'Orbitron';
+  color: #ffffff;
+  font-size: 12px;
+  padding: 6px 18px 6px 18px;
+  border: solid #cd486b 1px;
+  text-decoration: none;
+}
+.footer-link2{
+  position: relative;
+
+  left: 0px;
+  top: 60px;
+  background: #fbad50;
+  background-image: -webkit-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -moz-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -ms-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -o-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: linear-gradient(to bottom, #fbad50, #8a3ab9);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: 'Orbitron';
+  color: #ffffff;
+  font-size: 12px;
+  padding: 6px 18px 6px 18px;
+  border: solid #cd486b 1px;
+  text-decoration: none;
+}
+.footer-link3{
+  position: relative;
+
+  left: 100px;
+  top: 60px;
+  background: #fbad50;
+  background-image: -webkit-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -moz-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -ms-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: -o-linear-gradient(top, #fbad50, #8a3ab9);
+  background-image: linear-gradient(to bottom, #fbad50, #8a3ab9);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: 'Orbitron';
+  color: #ffffff;
+  font-size: 12px;
+  padding: 6px 18px 6px 18px;
+  border: solid #cd486b 1px;
+  text-decoration: none;
+}
+.d1{
+  font-family:'Signika Negative',sans-serif;
+  padding-top: 60px;
+}
+.w{
+  position: relative;
+  top: 20px;
+}
+.keep{
+  font-family:'Leckerli One',sans-serif;
+}
